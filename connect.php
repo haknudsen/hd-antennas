@@ -2,10 +2,10 @@
 error_reporting( 2 );
 //session_start();
 $servername = "vdb1b.pair.com";
-$username = "working_44";
-$password = "TFmu223W";
-$dbname = "working_homehealth";
-$table = "companies"; 
+$username = "working_48";
+$password = "3LqFcC8C";
+$dbname = "working_antennas";
+$table = "models"; 
 // Create connection
 $conn = mysqli_connect( $servername, $username, $password );
 // Check connection
