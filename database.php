@@ -20,7 +20,7 @@
     //session_start();
     $servername = "vdb1a.pair.com";
     $username = "working_48";
-    $password = "8000800828052605";
+    $password = "3LqFcC8C";
     $dbname = "working_antennas";
     $table = "models";
     // Create connection
