@@ -94,8 +94,8 @@ ol ol, ol ul, ul ol, ul ul { margin-bottom: 0 }
 dt { font-weight: 700 }
 dd { margin-bottom: .5rem; margin-left: 0 }
 blockquote { margin: 0 0 1rem }
-a { color: #A6BEBF; text-decoration: none }
-a:focus, a:hover { color: #54397f; text-decoration: underline }
+a { color: #7DAEF3; text-decoration: none }
+a:focus, a:hover { color: #2970D9; text-decoration: underline }
 a:not([href]):not([tabindex]) { color: inherit; text-decoration: none }
 a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover { color: inherit; text-decoration: none }
 a:not([href]):not([tabindex]):focus { outline: 0 }

@@ -57,15 +57,6 @@ h3 {
 h1, h2, h3, h4, h5, h6, strong {
     font-weight: 700;
 }
-/*
-a:link, a:visited {
-color: #808080;
-}
-*/
-
-a:hover {
-    color: #808080;
-}
 abbr, acronym {
     border-bottom: 1px dotted;
     cursor: help;
@@ -97,7 +88,10 @@ p, fieldset, table {
     margin-bottom: 15px;
 }
 a:link, a:visited {
-    text-decoration: none;color: #7AADEF
+    text-decoration: none;color: #F9FDFF
+}
+a:hover {
+    color: #F9FDFF;
 }
 :focus {
     outline: 0;
